@@ -1,8 +1,8 @@
 # How To Set Credit Limit ?
 
-My colleagues argued an issue how to set credit limit for new applicants for consumption loan.
+My colleagues argued an issue how to set credit limit for new applicants for consumption loans.
 
-Which one will be a right proposal? Setting up a credit limit on down-top direction or top-down direction ?
+Which one will be a right proposal? Setting up a credit limit from down-top direction or top-down direction ?
 
 Top-down strategy means, give new applicant a total amount based on credit score, then allocate total amount into several loan lines.
 
